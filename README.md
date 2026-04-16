@@ -8,6 +8,11 @@ I am a seconnd year student at UNSW, pursuing Masters in Information Technology.
 
 📸 My photography
 
+<p align="center">
+  <img src="images/1.jpg" width="250"/>
+  <img src="images/2.jpg" width="250"/>
+  <img src="images/3.jpg" width="250"/>
+</p>
 
 
 
