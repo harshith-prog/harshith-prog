@@ -4,4 +4,4 @@ I am a seconnd year student at UNSW, pursuing Masters in Information Technology.
 
 ⚒️ Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,java,c,python,r,react,nextjs,nodejs,tailwind,postgres,docker,aws,git,github,figma,postman,framer)
+![My Skills](https://skillicons.dev/icons?i=js,ts,java,c,python,r,react,nextjs,nodejs,tailwind,postgres,docker,aws,git,github,figma,postman,firebase,linux,mongodb,mysql)
