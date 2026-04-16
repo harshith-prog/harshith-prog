@@ -1,6 +1,6 @@
 <b>Hello there, I am Harshith Kumar  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></b>
 
-I am a seconnd year student at UNSW, pursuing Masters in Information Technology. I am well adept at implementing Frontend and Backend technlogies across variety of disciplines - from personal projects all the way to a developer for a startup. In my spare time, I enjoy trying out different cuisines and love travelling and taking photos on my mobile.
+I am a second year student at UNSW, pursuing Masters in Information Technology. I am well adept at implementing Frontend and Backend technlogies across variety of disciplines - from personal projects all the way to a developer for a startup. In my spare time, I enjoy trying out different cuisines and love travelling and taking photos on my mobile.
 
 <b>⚒️ Skills</b>
 
